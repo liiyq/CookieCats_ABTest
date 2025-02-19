@@ -12,6 +12,7 @@
 </div>
 
 ## 🔍 Key Outcomes
+
 <div align="center">
 
 | 🎯 **Finding** | 📊 **Evidence** | 🚀 **Business Impact** |
@@ -22,7 +23,8 @@
 
 </div>
 
-## 🧠 Analytical Approach
+
+## 🔬 Analytical Approach
 
 <div align="center">
   
@@ -38,6 +40,7 @@ F --> G[Business Insights]
 
 </div>
 
+
 ## 📈 Performance Metrics
 
 ### Bootstrap Analysis (10,000 iterations)
@@ -51,6 +54,7 @@ F --> G[Business Insights]
 
 </div>
 
+
 ### Statistical Significance (Z-test)
 <div align="center">
 
@@ -63,6 +67,7 @@ F --> G[Business Insights]
 </div>
 
 > **Conclusion**: Both bootstrap simulation and traditional hypothesis testing (z-test) consistently demonstrate that moving the gate from level 30 to level 40 negatively impacts player retention metrics. The 7-day retention decrease of 16.7% is particularly significant, with 99% confidence across both testing methodologies.
+
 
 ## 💼 Recommended Actions
 
